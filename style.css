@@ -4,6 +4,10 @@ h1{
     justify-content: center;
 }
 
+#renderCanvas {
+  position: relative;
+  z-index: 9999;
+}
 
 
 /* Button base */
